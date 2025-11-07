@@ -32,15 +32,12 @@ pip install -r requirements.txt
 ## Notes & Reproducibility
 
 - The `requirements.txt` is inferred automatically by scanning imports in the notebook. Some packages may be missing or require specific versions — please run the notebook and add pins if needed.
-- If any packages were not recognized automatically, they are: None
 
-## Suggested commit message
 
-- See `COMMIT_MESSAGE.txt` for a professional commit message.
 
 ## Author
 
-- Your Name — replace with your actual name in the repository README.
+- Chirag Sisodiya
 
 ## License
 
